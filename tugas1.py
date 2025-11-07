@@ -1,0 +1,11 @@
+'''
+Mira
+2502383
+1A
+'''
+
+for i in range(1, 51):
+    if i % 5 == 0:
+        print("pass")
+    else:
+        print(i, end=" ")
